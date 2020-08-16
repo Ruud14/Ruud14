@@ -6,7 +6,7 @@
 
 ### Languages and Tools in descending order of experience: 
 - Python <img align="left" alt="Python" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
-    - **Tools & Skills**: Automation, Django, Micropython, Networking, Image Processing
+    - **Tools & Skills**: Automation, Django, Micropython, Networking, GUIs (Kivy & TKinter), Image Processing, Constraint programming
     - **Projects**: 
         - [DIY-Wifi-LEDStrip-Controller]
         - [Security Camera]
@@ -14,7 +14,7 @@
         - [Django-Camera-View-And-Playback] 
     
 - Dart <img align="left" alt="Dart" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
-    - **Tools & Skills**: Flutter apps
+    - **Tools & Skills**: Flutter apps, Firestore interaction
     - **Projects**: 
         - [Wi-Fi-LEDStrip-Controller-App]
     
@@ -25,7 +25,7 @@
         - [DIY-Wifi-LEDStrip-Controller]
        
 - Javascript <img align="left" alt="JavaScript" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    - **Tools & Skills**: Interactive web, Chrome extensions
+    - **Tools & Skills**: Interactive web, Chrome extensions, Firebase cloud functions
     - **Projects**: 
         - [Page Manipulator]
         - [Django-Camera-View-And-Playback]
