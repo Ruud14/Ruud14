@@ -10,10 +10,10 @@
     - **Tools & Skills**: Automation, Django, Micropython, Networking, GUIs (Kivy & TKinter), Image Processing, Constraint programming
     <details>
         <summary>Projects</summary>
-		- [DIY-Wifi-LEDStrip-Controller][DIY-Wifi-LEDStrip-Controller] <br/>
-        - [Security Camera] <br/> 
-        - [Curses Snake Multiplayer] <br/>
-        - [Django-Camera-View-And-Playback]  <br/>
+		- https://github.com/Ruud14/DIY-Wifi-LEDStrip-Controller <br/>
+        - https://github.com/Ruud14/SecurityCamera <br/> 
+        - https://github.com/Ruud14/Curses-Snake-MultiPlayer <br/>
+        - https://github.com/Ruud14/Django-Camera-View-And-Playback  <br/>
     </details>
 
     
@@ -21,7 +21,7 @@
     - **Tools & Skills**: Flutter apps, Firestore interaction
     <details>
         <summary>Projects</summary>
-        - [Wi-Fi-LEDStrip-Controller-App]
+        - https://github.com/Ruud14/Wifi-LEDStrip-Controller-App
     </details>
 
     
@@ -29,8 +29,8 @@
     - **Tools & Skills**: Raspberry pi, ESP8266 & ESP32, Arduino, Basic electronics
     <details>
         <summary>Projects</summary>
-		- [Security Camera]
-        - [DIY-Wifi-LEDStrip-Controller]
+		- https://github.com/Ruud14/SecurityCamera <br/>
+        - https://github.com/Ruud14/DIY-Wifi-LEDStrip-Controller <br/>
     </details>
 
        
@@ -38,8 +38,8 @@
     - **Tools & Skills**: Interactive web, Chrome extensions, Firebase cloud functions
     <details>
         <summary>Projects</summary>
-		- [Page Manipulator]
-        - [Django-Camera-View-And-Playback]
+		- https://github.com/Ruud14/Page-Manipulator <br/>
+        - https://github.com/Ruud14/Django-Camera-View-And-Playback <br/>
     </details>
 
     
@@ -47,9 +47,9 @@
     - **Tools & Skills**: Basic web pages
     <details>
         <summary>Projects</summary>
-        - [Page Manipulator]
-        - [Django-Camera-View-And-Playback]  
-        - [Security Camera]
+        - https://github.com/Ruud14/Page-Manipulator <br/>
+        - https://github.com/Ruud14/Django-Camera-View-And-Playback  <br/>
+        - https://github.com/Ruud14/SecurityCamera <br/>
     </details>
         
 
