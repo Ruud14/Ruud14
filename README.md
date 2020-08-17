@@ -3,76 +3,53 @@
 - 🏳 Netherlands
 - 💻 Self taught
 - 🔭 hobbyist
-- 💬 Ask me anything [here][issues]
+- 💬 Ask me anything [here][issues] or via e-mail.
 ---
 ### Languages and Tools in descending order of experience: 
 - Python <img align="left" alt="Python" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
-    <details>
-        <summary>Tools & Skills</summary>
-        - Automation
-        - Django
-        - Micropython
-        - Networking
-        - GUIs (Kivy & TKinter)
-        - Image processing
-        - Constraint programming
-    </details>
+    - **Tools & Skills**: Automation, Django, Micropython, Networking, GUIs (Kivy & TKinter), Image Processing, Constraint programming
     <details>
         <summary>Projects</summary>
-        - https://github.com/Ruud14/DIY-Wifi-LEDStrip-Controller
-        - https://github.com/Ruud14/SecurityCamera
-        - https://github.com/Ruud14/Curses-Snake-MultiPlayer
-        - https://github.com/Ruud14/Django-Camera-View-And-Playback 
+		- [DIY-Wifi-LEDStrip-Controller]
+        - [Security Camera]
+        - [Curses Snake Multiplayer]
+        - [Django-Camera-View-And-Playback] 
     </details>
+
     
 - Dart <img align="left" alt="Dart" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
-    <details>
-        <summary>Tools & Skills</summary>
-        - Flutter apps
-        - Firestore interaction
-    </details>
+    - **Tools & Skills**: Flutter apps, Firestore interaction
     <details>
         <summary>Projects</summary>
-        - https://github.com/Ruud14/Wifi-LEDStrip-Controller-App
+		- [Wi-Fi-LEDStrip-Controller-App]
     </details>
+
     
 - Hardware <img align="left" alt="Dart" width="26px" src="https://joy-it.net/files/files/Produkte/SBC-NodeMCU-ESP32/SBC-NodeMCU-ESP32-01.png" />
-    <details>
-        <summary>Tools & Skills</summary>
-        - Raspberry pi
-        - ESP8266 & ESP32
-        - Arduino
-        - Basic electronics
-    </details>
+    - **Tools & Skills**: Raspberry pi, ESP8266 & ESP32, Arduino, Basic electronics
     <details>
         <summary>Projects</summary>
-        - https://github.com/Ruud14/SecurityCamera
-        - https://github.com/Ruud14/DIY-Wifi-LEDStrip-Controller
+		- [Security Camera]
+        - [DIY-Wifi-LEDStrip-Controller]
     </details>
+
        
 - Javascript <img align="left" alt="JavaScript" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <details>
-        <summary>Tools & Skills</summary>
-        - Interactive web
-        - Chrome extensions
-        - Firebase cloud functions
-    </details>
+    - **Tools & Skills**: Interactive web, Chrome extensions, Firebase cloud functions
     <details>
         <summary>Projects</summary>
-        - https://github.com/Ruud14/Page-Manipulator
-        - https://github.com/Ruud14/Django-Camera-View-And-Playback 
+		- [Page Manipulator]
+        - [Django-Camera-View-And-Playback]
     </details>
+
     
 - HTML <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> & CSS <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-    <details>
-        <summary>Tools & Skills</summary>
-        - Basic web pages
-    </details>
+    - **Tools & Skills**: Basic web pages
     <details>
         <summary>Projects</summary>
-        - https://github.com/Ruud14/Page-Manipulator
-        - https://github.com/Ruud14/Django-Camera-View-And-Playback 
-        - https://github.com/Ruud14/SecurityCamera
+        - [Page Manipulator]
+        - [Django-Camera-View-And-Playback]  
+        - [Security Camera]
     </details>
         
 
