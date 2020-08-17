@@ -10,7 +10,7 @@
     - **Tools & Skills**: Automation, Django, Micropython, Networking, GUIs (Kivy & TKinter), Image Processing, Constraint programming
     <details>
         <summary>Projects</summary>
-		- [DIY-Wifi-LEDStrip-Controller] <br/>
+		- [DIY-Wifi-LEDStrip-Controller][DIY-Wifi-LEDStrip-Controller] <br/>
         - [Security Camera] <br/> 
         - [Curses Snake Multiplayer] <br/>
         - [Django-Camera-View-And-Playback]  <br/>
