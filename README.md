@@ -10,10 +10,10 @@
     - **Tools & Skills**: Automation, Django, Micropython, Networking, GUIs (Kivy & TKinter), Image Processing, Constraint programming
     <details>
         <summary>Projects</summary>
-		- [DIY-Wifi-LEDStrip-Controller]
-        - [Security Camera]
-        - [Curses Snake Multiplayer]
-        - [Django-Camera-View-And-Playback] 
+		- [DIY-Wifi-LEDStrip-Controller] <br/>
+        - [Security Camera] <br/> 
+        - [Curses Snake Multiplayer] <br/>
+        - [Django-Camera-View-And-Playback]  <br/>
     </details>
 
     
@@ -21,7 +21,7 @@
     - **Tools & Skills**: Flutter apps, Firestore interaction
     <details>
         <summary>Projects</summary>
-		- [Wi-Fi-LEDStrip-Controller-App]
+        - [Wi-Fi-LEDStrip-Controller-App]
     </details>
 
     
