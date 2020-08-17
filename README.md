@@ -34,8 +34,8 @@
 - HTML <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> & CSS <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
     - **Tools & Skills**: Basic web pages
     <details>
-        <summary>:zap: **Projects**</summary>
-        - [Page Manipulator]
+        <summary>Projects</summary>
+        - [Page Manipulator](https://github.com/Ruud14/Page-Manipulator)
         - [Django-Camera-View-And-Playback]  
         - [Security Camera]
     </details>
@@ -43,9 +43,9 @@
 
 ---
 
-<details>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ruud14&show_icons=true&hide_border=true&count_private=true&hide=contribs" />
-</details>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ruud14&show_icons=true&hide_border=true&count_private=true&hide=contribs" />
+
+
 
 
 _I've done many more projects than there are visible on my github of course. Those projects are just not worth it or they are private._
