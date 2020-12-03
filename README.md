@@ -1,5 +1,5 @@
 ## Ruud Brouwers - aka [Ruud14][github] 👋
-- 🌱 17 years old
+- 🌱 18 years old
 - 🏳 Netherlands
 - 💻 Self-taught
 - 🔭 hobbyist
