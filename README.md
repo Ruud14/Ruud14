@@ -59,9 +59,6 @@
 
 
 
-
-_I've done many more projects than there are visible on my github of course. Those projects are just not worth it or they are private._
-
 [github]: https://github.com/Ruud14
 [issues]: https://github.com/Ruud14/Ruud14/issues
 [Django-Camera-View-And-Playback]: https://github.com/Ruud14/Django-Camera-View-And-Playback
