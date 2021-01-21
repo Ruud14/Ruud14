@@ -40,6 +40,7 @@
         <summary>Projects</summary>
 		- https://github.com/Ruud14/Page-Manipulator <br/>
         - https://github.com/Ruud14/Django-Camera-View-And-Playback <br/>
+	- https://github.com/Ruud14/MMM-SpotifyReleases <br/>
     </details>
 
     
