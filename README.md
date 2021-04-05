@@ -1,63 +1,128 @@
 ## Ruud Brouwers - aka [Ruud14][github] 👋
-- 🌱 18 years old
-- 🏳 Netherlands
-- 💻 Self-taught
-- 🔭 hobbyist
+- 🌱 18 years old, from the Netherlands.
+- 💻 Currently working on [Page Manipulator][Page Manipulator Chrome].
 - 💬 Ask me anything [here][issues] or via e-mail.
----
-### Languages and Tools in descending order of experience: 
-- Python <img align="left" alt="Python" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
-    - **Tools & Skills**: Automation, Django, Micropython, Networking, GUIs (Kivy & TKinter), Image Processing, Constraint programming
-    <details>
-        <summary>Projects</summary>
-		- https://github.com/Ruud14/DIY-Wifi-LEDStrip-Controller <br/>
-        - https://github.com/Ruud14/SecurityCamera <br/> 
-        - https://github.com/Ruud14/Curses-Snake-MultiPlayer <br/>
-        - https://github.com/Ruud14/Django-Camera-View-And-Playback  <br/>
-    </details>
 
-    
-- Dart <img align="left" alt="Dart" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
-    - **Tools & Skills**: Flutter apps, Firestore interaction
-    <details>
-        <summary>Projects</summary>
-        - https://github.com/Ruud14/Wifi-LEDStrip-Controller-App
-    </details>
+<h3>📃 Some of my projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Language</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Ruud14/Page-Manipulator"><b>Page Manipulator Chrome extension</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Ruud14/Page-Manipulator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Ruud14/Page-Manipulator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Ruud14/Page-Manipulator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/languages/top/Ruud14/Page-Manipulator?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/Ruud14/SecurityCamera"><b>Security Camera System</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Ruud14/SecurityCamera?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Ruud14/SecurityCamera?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Ruud14/SecurityCamera?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/languages/top/Ruud14/SecurityCamera?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Ruud14/MMM-SpotifyReleases"><b>SpotifyReleases magic mirror module</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Ruud14/MMM-SpotifyReleases?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Ruud14/MMM-SpotifyReleases?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Ruud14/MMM-SpotifyReleases?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/languages/top/Ruud14/MMM-SpotifyReleases?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Ruud14/DIY-Wifi-LEDStrip-Controller"><b>Wifi LED strip controller</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Ruud14/DIY-Wifi-LEDStrip-Controller?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Ruud14/DIY-Wifi-LEDStrip-Controller?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Ruud14/DIY-Wifi-LEDStrip-Controller?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/languages/top/Ruud14/DIY-Wifi-LEDStrip-Controller?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+    	<td><a href="https://github.com/Ruud14?tab=repositories"><b>Show more...</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
-    
-- Hardware <img align="left" alt="Dart" width="26px" src="https://joy-it.net/files/files/Produkte/SBC-NodeMCU-ESP32/SBC-NodeMCU-ESP32-01.png" />
-    - **Tools & Skills**: Raspberry pi, ESP8266 & ESP32, Arduino, Basic electronics
-    <details>
-        <summary>Projects</summary>
-		- https://github.com/Ruud14/SecurityCamera <br/>
-        - https://github.com/Ruud14/DIY-Wifi-LEDStrip-Controller <br/>
-    </details>
 
-       
-- Javascript <img align="left" alt="JavaScript" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    - **Tools & Skills**: Interactive web, Chrome extensions, Firebase cloud functions
-    <details>
-        <summary>Projects</summary>
-		- https://github.com/Ruud14/Page-Manipulator <br/>
-        - https://github.com/Ruud14/Django-Camera-View-And-Playback <br/>
-	- https://github.com/Ruud14/MMM-SpotifyReleases <br/>
-    </details>
+## 📚 Languages & Skills
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png?raw=true" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_128x128.png?raw=true" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://dartpad.dev/pictures/logo_dart.png" width="48" height="48" alt="Dart" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_128x128.png?raw=true" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_128x128.png?raw=true" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://plugins.jetbrains.com/files/12400/96823/icon/pluginIcon.png" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://sangeeta.io/images/tech-stack/django.png" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" width="48" height="48" alt="MicroPython" />
+      </a>
+      <br>µPython
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://iconape.com/wp-content/files/ow/352974/svg/arduino-seeklogo.com.svg" width="48" height="48" alt="Arduino" />
+      </a>
+      <br>Arduino
+    </td>
+  </tr>
+  
+</table>
 
-    
-- HTML <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> & CSS <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-    - **Tools & Skills**: Basic web pages
-    <details>
-        <summary>Projects</summary>
-        - https://github.com/Ruud14/Page-Manipulator <br/>
-        - https://github.com/Ruud14/Django-Camera-View-And-Playback  <br/>
-        - https://github.com/Ruud14/SecurityCamera <br/>
-    </details>
-        
 
----
+<!--<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ruud14&show_icons=true&hide_border=true&count_private=true&hide=contribs" />-->
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ruud14&show_icons=true&hide_border=true&count_private=true&hide=contribs" />
+## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/Ruud14/Ruud14/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruud14&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ruud14's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Ruud14/Ruud14/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruud14&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ruud14's GitHub Stats" />
+</a>
 
 
 [github]: https://github.com/Ruud14
@@ -68,3 +133,4 @@
 [Wi-Fi-LEDStrip-Controller-App]: https://github.com/Ruud14/Wifi-LEDStrip-Controller-App
 [Curses Snake Multiplayer]: https://github.com/Ruud14/Curses-Snake-MultiPlayer
 [Page Manipulator]: https://github.com/Ruud14/Page-Manipulator
+[Page Manipulator Chrome]: https://chrome.google.com/webstore/detail/page-manipulator/mdhellggnoabbnnchkeniomkpghbekko
