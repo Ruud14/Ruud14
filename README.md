@@ -85,7 +85,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://plugins.jetbrains.com/files/12400/96823/icon/pluginIcon.png" width="48" height="48" alt="Flutter" />
+        <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
     </td>
