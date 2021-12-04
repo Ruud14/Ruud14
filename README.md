@@ -73,21 +73,21 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_128x128.png?raw=true" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_128x128.png?raw=true" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_128x128.png?raw=true" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
