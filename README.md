@@ -1,6 +1,6 @@
 ## Ruud Brouwers - aka [Ruud14][github] 👋
 - 🌱 18 years old, from the Netherlands.
-- 💻 Currently working on [Page Manipulator][Page Manipulator].
+- 💻 Currently working on a private project.
 - 💬 Ask me anything [here][issues] or via e-mail.
 
 <h3>📃 Some of my projects</h3>
