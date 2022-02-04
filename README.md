@@ -1,6 +1,6 @@
 ## Ruud Brouwers - aka [Ruud14][github] 👋
 - 🌱 19 years old, from the Netherlands.
-- 💻 Currently working on a private project.
+- 💻 Currently working on [Spartial.app](https://spartial.app).
 - 💬 Ask me anything [here][issues] or via e-mail.
 
 <h3>📃 Some of my projects</h3>
@@ -15,6 +15,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/Ruud14/Spartial"><b>Spartial</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Ruud14/Spartial?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Ruud14/Spartial?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Ruud14/Spartial?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/languages/top/Ruud14/Spartial?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/Ruud14/Page-Manipulator"><b>Page Manipulator Browser extension</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Ruud14/Page-Manipulator?style=flat-square&labelColor=343b41"/></td>
@@ -35,13 +42,6 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Ruud14/MMM-SpotifyReleases?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Ruud14/MMM-SpotifyReleases?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/languages/top/Ruud14/MMM-SpotifyReleases?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ruud14/DIY-Wifi-LEDStrip-Controller"><b>Wifi LED strip controller</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Ruud14/DIY-Wifi-LEDStrip-Controller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Ruud14/DIY-Wifi-LEDStrip-Controller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Ruud14/DIY-Wifi-LEDStrip-Controller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/languages/top/Ruud14/DIY-Wifi-LEDStrip-Controller?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
     	<td><a href="https://github.com/Ruud14?tab=repositories"><b>Show more...</b></a></td>
