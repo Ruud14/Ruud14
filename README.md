@@ -61,12 +61,6 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_128x128.png?raw=true" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://dartpad.dev/pictures/logo_dart.png" width="48" height="48" alt="Dart" />
       </a>
       <br>Dart
@@ -76,6 +70,12 @@
         <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_128x128.png?raw=true" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
