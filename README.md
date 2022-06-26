@@ -1,6 +1,7 @@
-## Ruud Brouwers - aka [Ruud14][github] 👋
+## Ruud Brouwers - [Ruud14][github] 👋
 - 🌱 19 years old, from the Netherlands.
-- 💻 Currently working on [Spartial.app](https://spartial.app).
+- 📚 Computer Science student [@TU/e][tue]
+- 💻 Currently working on a private project.
 - 💬 Ask me anything [here][issues] or via e-mail.
 
 <h3>📃 Some of my projects</h3>
@@ -126,6 +127,7 @@
 
 
 [github]: https://github.com/Ruud14
+[tue]: https://www.tue.nl/studeren/bachelor-college/bachelor-computer-science-and-engineering/
 [issues]: https://github.com/Ruud14/Ruud14/issues
 [Django-Camera-View-And-Playback]: https://github.com/Ruud14/Django-Camera-View-And-Playback
 [DIY-Wifi-LEDStrip-Controller]: https://github.com/Ruud14/DIY-Wifi-LEDStrip-Controller
