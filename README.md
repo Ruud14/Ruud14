@@ -1,3 +1,4 @@
+
 ## Ruud Brouwers - [Ruud14][github] 👋
 - 🌱 19 years old, from the Netherlands.
 - 📚 Computer Science student [@TU/e][tue]
@@ -51,7 +52,8 @@
 </table>
 
 
-## 📚 Languages & Skills
+## 📚 Languages 
+#### (Most to least experience)
 <table>
   <tr>
     <td align="center" width="96">
@@ -66,11 +68,11 @@
       </a>
       <br>Dart
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="48" height="48" alt="Flutter" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="48" height="48" alt="Kotlin" />
       </a>
-      <br>Flutter
+      <br>Kotlin
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -80,15 +82,44 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" width="48" height="48" alt="Flutter" />
+        <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_128x128.png?raw=true" width="48" height="48" alt="HTML" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="48" height="48" alt="C++" />
       </a>
-      <br>HTML
+      <br>C++
+          <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/128/cpu-ARM-icon.png" width="48" height="48" alt="Assembly" />
+      </a>
+      <br>Assembly
+  </tr>
+  
+</table>
+
+## 📚 Frameworks & other skills
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.gstatic.com/devrel-devsite/prod/v17bab36d69ae03fcc913f41eaedd7c01378ceed3d66f27cd213f7054697e46ba/firebase/images/touchicon-180.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://forum.androidworld.nl/media/images/2019/08/22/Android_10.png" width="48" height="48" alt="Android" />
+      </a>
+      <br>Android
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -107,6 +138,12 @@
         <img src="https://iconape.com/wp-content/files/ow/352974/svg/arduino-seeklogo.com.svg" width="48" height="48" alt="Arduino" />
       </a>
       <br>Arduino
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sat_reduced_to_Clique_from_Sipser.svg/300px-Sat_reduced_to_Clique_from_Sipser.svg.png" width="48" height="48" alt="SAT/SMT" />
+      </a>
+      <br>SAT/SMT
     </td>
   </tr>
   
