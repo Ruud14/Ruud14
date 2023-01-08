@@ -111,15 +111,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.gstatic.com/devrel-devsite/prod/v17bab36d69ae03fcc913f41eaedd7c01378ceed3d66f27cd213f7054697e46ba/firebase/images/touchicon-180.png" width="48" height="48" alt="Firebase" />
+        <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="48" height="48" alt="Android" />
       </a>
-      <br>Firebase
+      <br>Supabase
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://forum.androidworld.nl/media/images/2019/08/22/Android_10.png" width="48" height="48" alt="Android" />
+        <img src="https://www.gstatic.com/devrel-devsite/prod/v17bab36d69ae03fcc913f41eaedd7c01378ceed3d66f27cd213f7054697e46ba/firebase/images/touchicon-180.png" width="48" height="48" alt="Firebase" />
       </a>
-      <br>Android
+      <br>Firebase
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
