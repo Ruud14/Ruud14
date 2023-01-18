@@ -52,21 +52,21 @@
 </table>
 
 
-## 📚 Languages 
+## 📚 Programming languages 
 #### (Most to least experience)
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png?raw=true" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://dartpad.dev/pictures/logo_dart.png" width="48" height="48" alt="Dart" />
       </a>
       <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png?raw=true" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
@@ -114,6 +114,12 @@
         <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="48" height="48" alt="Android" />
       </a>
       <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
