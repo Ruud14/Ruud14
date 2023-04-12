@@ -68,11 +68,11 @@
       </a>
       <br>Python
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="48" height="48" alt="Kotlin" />
+        <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" width="48" height="48" alt="Java" />
       </a>
-      <br>Kotlin
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -82,9 +82,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" width="48" height="48" alt="Java" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="48" height="48" alt="Kotlin" />
       </a>
-      <br>Java
+      <br>Kotlin
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
