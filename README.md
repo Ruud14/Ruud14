@@ -158,7 +158,7 @@
 
 <!--<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ruud14&show_icons=true&hide_border=true&count_private=true&hide=contribs" />-->
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Ruud14/Ruud14/">
   <img height="230" align="center" src="https://github-readme-stats.vercel.app/api?username=Ruud14&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ruud14's GitHub Stats" />
@@ -166,7 +166,7 @@
 
 <a href="https://github.com/Ruud14/Ruud14/">
   <img height="230" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruud14&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ruud14's GitHub Stats" />
-</a>
+</a> -->
 
 
 [github]: https://github.com/Ruud14
