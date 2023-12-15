@@ -1,6 +1,6 @@
 
 ## Ruud Brouwers - [Ruud14][github] 👋
-- 🌱 20 years old, from the Netherlands.
+- 🌱 21 years old, from the Netherlands.
 - 📚 Computer Science student [@TU/e][tue]
 - 💻 Currently working on a private project.
 - 💬 Ask me anything [here][issues] or via e-mail.
@@ -53,7 +53,7 @@
 
 
 ## 📚 Programming languages 
-#### (Most to least experience)
+#### (Most (left) to least (right) experience)
 <table>
   <tr>
     <td align="center" width="96">
@@ -70,12 +70,6 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_128x128.png?raw=true" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
@@ -85,6 +79,12 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="48" height="48" alt="Kotlin" />
       </a>
       <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -101,6 +101,7 @@
 </table>
 
 ## 📚 Frameworks & other skills
+#### (Most (left) to least (right) experience)
 <table>
   <tr>
     <td align="center" width="96">
@@ -123,7 +124,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.gstatic.com/devrel-devsite/prod/v17bab36d69ae03fcc913f41eaedd7c01378ceed3d66f27cd213f7054697e46ba/firebase/images/touchicon-180.png" width="48" height="48" alt="Firebase" />
+        <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
