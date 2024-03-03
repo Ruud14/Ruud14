@@ -2,7 +2,7 @@
 ## Ruud Brouwers - [Ruud14][github] 👋
 - 🌱 21 years old, from the Netherlands.
 - 📚 Computer Science student [@TU/e][tue]
-- 💻 Currently working on a private project.
+- 💻 Currently working on [Rekwest.app](https://rekwest.app).
 - 💬 Ask me anything [here][issues] or via e-mail.
 
 <h3>📃 Some of my projects</h3>
