@@ -1,7 +1,6 @@
 
 ## Ruud Brouwers - [Ruud14][github] 👋
 - 🌱 21 years old, from the Netherlands.
-- 📚 Computer Science student [@TU/e][tue]
 - 💻 Currently working on [Rekwest.app](https://rekwest.app).
 - 💬 Ask me anything [here][issues] or via e-mail.
 
@@ -58,7 +57,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://dartpad.dev/pictures/logo_dart.png" width="48" height="48" alt="Dart" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dart_programming_language_logo_icon.svg/2048px-Dart_programming_language_logo_icon.svg.png" width="48" height="48" alt="Dart" />
       </a>
       <br>Dart
     </td>
