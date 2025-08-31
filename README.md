@@ -69,15 +69,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_128x128.png?raw=true" width="48" height="48" alt="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="48" height="48" alt="Kotlin" />
       </a>
-      <br>JavaScript
+      <br>Kotlin
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="48" height="48" alt="Kotlin" />
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_128x128.png?raw=true" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>Kotlin
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -111,7 +111,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="48" height="48" alt="Android" />
+        <img src="https://monkedo-static.s3.eu-central-1.amazonaws.com/component-icons/supabase.png" width="48" height="48" alt="Android" />
       </a>
       <br>Supabase
     </td>
@@ -122,16 +122,16 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://sangeeta.io/images/tech-stack/django.png" width="48" height="48" alt="Django" />
       </a>
       <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
