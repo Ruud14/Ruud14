@@ -4,7 +4,7 @@
 - 💻 Currently working on [Rekwest.app](https://rekwest.app).
 - 💬 Ask me anything [here][issues] or via e-mail.
 
-<h3>📃 Some of my projects</h3>
+<h3>📃 Some of my side projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
