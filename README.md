@@ -1,6 +1,6 @@
 
 ## Ruud Brouwers - [Ruud14][github] 👋
-- 🌱 22 years old, from the Netherlands.
+- 🌱 23 years old, from the Netherlands.
 - 💻 Currently working on [Rekwest.app](https://rekwest.app).
 - 💬 Ask me anything [here][issues] or via e-mail.
 
